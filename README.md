@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eben4christ
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT,NODEJS, SQL and mongoDB
+- 💞️ I’m looking to collaborate on HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT, REACT NATIVE, NODEJS, SQL and mongoDB
 - 📫 How to reach me ...
 
 <!---
